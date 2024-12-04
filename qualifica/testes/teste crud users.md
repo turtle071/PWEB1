@@ -86,6 +86,6 @@ Este documento descreve os testes a serem realizados na tabela de gerenciamento 
 
 - Tablet
 
-![image](/qualifica/testes/assets/assets/tablet.png)
+![image](/qualifica/testes/assets/tablet.png)
 
 ---
