@@ -60,17 +60,17 @@ Este documento descreve os testes a serem realizados na tabela de gerenciamento 
 ### Selecionar um usuário existente e testar a funcionalidade de edição, alterando diferentes campos (nome, e-mail, papel, etc.) e verificar se as alterações são salvas corretamente. ⚠️
 - Ao tentar fazer a edição dos dados de um usuário já existente os campos de email e CPF estão bloqueados para alteração.
 
-![image](/assets/img%20edicao%20user.jpeg)
+![image](/testes//assets/img%20edicao%20user.jpeg)
 ---
 ### Validado se novo usuário criado pela tabela de gerenciamento tem acesso ou não a funções de admin ✅
 
 - Sem acesso as funções de admin - Usuário com role autenticado
 
-![image](/assets/opcoes%20novo%20user.jpeg)
+![image](/testes//assets/opcoes%20novo%20user.jpeg)
 
 - Com acesso as funções de admin - Usuário com role adminstrador
 
-![image](/assets/opcoes%20user%20admin.jpeg)
+![image](/testes//assets/opcoes%20user%20admin.jpeg)
 
 ---
 
@@ -78,14 +78,14 @@ Este documento descreve os testes a serem realizados na tabela de gerenciamento 
 
 - Desktop
 
-![image](/assets/desktop.png)
+![image](/testes/assets/desktop.png)
 
 - Smartphone
 
-![image](/assets/phone.png)
+![image](/testes//assets/phone.png)
 
 - Tablet
 
-![image](/assets/tablet.png)
+![image](/testes//assets/tablet.png)
 
 ---
